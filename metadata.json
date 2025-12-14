@@ -1,0 +1,7 @@
+{
+  "name": "NariRaksha - Anti-Dowry Portal",
+  "description": "A secure national platform for reporting dowry and jahez harassment with police integration and AI legal assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
